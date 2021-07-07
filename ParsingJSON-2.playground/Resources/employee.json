@@ -1,0 +1,19 @@
+[{
+  "name": "Alex",
+  "age": 19,
+  "is_working": true,
+  "email": "alex@gmail.com",
+  "current_city": {
+    "city": "Toronto",
+  },
+  "previous_city": {
+    "name": "NY",
+    
+  },
+  "website": {
+    "link": "google.com"
+  },
+  "twitter": {
+    "handle": "@alex"
+  }
+}]

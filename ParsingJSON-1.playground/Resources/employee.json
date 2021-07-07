@@ -1,0 +1,19 @@
+{
+  "name": "Alex",
+  "age": 19,
+  "is_working": true,
+  "email": "alex@gmail.com",
+  "address": {
+    "city": "Toronto",
+  },
+  "city": {
+    "name": "Toronto",
+    
+  },
+  "website": {
+    "link": "google.com"
+  },
+  "twitter": {
+    "handle": "@alex"
+  }
+}

@@ -1,0 +1,10 @@
+{ "name": "Alex",
+  "age": 19,
+  "is_working": true,
+  "email": "alex@gmail.com",
+  "address": {
+    "city": "Toronto",
+    "postal_code": "L9P 3XX",
+    "country": "US"
+  }
+}
